@@ -495,9 +495,6 @@ following
 ### Obtaining Zoho Bigin Client ID and Secret
 
 [Follow these steps](./packages/app-store/zoho-bigin/)
-
-## Workflows
-
 ### Setting up SendGrid for Email reminders
 
 1. Create a SendGrid account (https://signup.sendgrid.com/)
